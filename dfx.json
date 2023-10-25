@@ -1,0 +1,29 @@
+{
+  "canisters": {
+    "expensory_ic_backend": {
+      "main": "src/expensory_ic_backend/main.mo",
+      "type": "motoko"
+    },
+    "expensory_ic_frontend": {
+      "dependencies": [
+        "expensory_ic_backend"
+      ],
+      "frontend": {
+        "entrypoint": "src/expensory_ic_frontend/src/index.html"
+      },
+      "source": [
+        "src/expensory_ic_frontend/assets",
+        "dist/expensory_ic_frontend/"
+      ],
+      "type": "assets"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
