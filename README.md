@@ -1,5 +1,3 @@
-# expensory_ic
-
 <p align="center">
   <img src="src/expensory_ic_frontend/assets/logo.png" align="center" width="128" height="128" />
 <p>
