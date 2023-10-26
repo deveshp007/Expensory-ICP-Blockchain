@@ -1,6 +1,26 @@
 # expensory_ic
 
-Welcome to your new expensory_ic project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+<p align="center">
+  <img src="src/expensory_ic_frontend/assets/logo.png" align="center" width="128" height="128" />
+<p>
+
+<h1 align="center">Expensory - IC</h1>
+
+<p align="center">
+Expensory-IC is a decentralized expense manager app built on the Internet Computer (IC) blockchain using Motoko and React JS. It is deployed on the IC, a public, open-source blockchain that is entirely Web3-based.
+</p>
+
+> Deployed on the IC at :  [https://zdal6-caaaa-aaaam-abw6q-cai.icp0.io/](https://zdal6-caaaa-aaaam-abw6q-cai.icp0.io/)
+
+
+<div align="center">
+
+  <img alt="Internet Computer" src="https://img.shields.io/badge/Internet_COmputer-2c2880?style=for-the-badge&logo=internetcomputer&logoColor=purple">
+  <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-370b63?style=for-the-badge&logo=bitcoin&logoColor=yellow">
+  <img alt="Motoko" src="https://img.shields.io/badge/Motoko-a9a7cf?style=for-the-badge&logo=ethereum&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/github/license/deveshp007/DormDynamo?style=for-the-badge">
+  </a>
+</div>
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
