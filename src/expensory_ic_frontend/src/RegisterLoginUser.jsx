@@ -55,7 +55,7 @@ const RegisterLoginUser = () => {
       <div className="logo-column">
         <img src={logo} alt="Your Logo" />
         <h1>Expensory</h1>
-        <h3 className="web-txt">
+        <h3 className="web-txt-auth">
           A simple, web-based application for tracking expenses, built on the
           ICP blockchain.
         </h3>

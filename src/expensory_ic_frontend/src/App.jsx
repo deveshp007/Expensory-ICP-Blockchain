@@ -23,7 +23,6 @@ const App = () => {
         <img src={robo} alt="robo" className="robo" />
         <div id="stars"></div>
       </div>
-
       <div className="container">
         <h3 className="web-txt">
           A basic web-based expense tracking application built on the Web3
